@@ -1,4 +1,4 @@
-# :memo::label: Product Sales Report :label::memo:
+# :memo::label: Customer Product Sales :label::memo:
 
 ## :bar_chart::computer: SQL + POWER BI :computer::bar_chart:
 
